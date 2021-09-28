@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AddyK123
 - 👀 I’m interested in software development and product management!
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Full Stack Development with Columbia Spectator
 
 <!---
 AddyK123/AddyK123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
